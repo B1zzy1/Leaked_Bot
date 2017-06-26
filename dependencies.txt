@@ -1,11 +1,5 @@
-from telepot.loop import MessageLoop
-
-from pymongo import MongoClient
-import telepot
-
-import hug
-import sys
-
-import requests
-
-import time
+#pip install -r dependencies.txt
+pymongo
+telepot
+hug
+requests
